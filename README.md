@@ -36,22 +36,25 @@ The application follows a **client–server architecture**, where the frontend c
 ---
 
 ## 📁 Project Structure
+## 📁 Project Structure
+
+```bash
 task-manager/
-│
 ├── backend/
-│ ├── models/
-│ │ └── Task.js
-│ ├── routes/
-│ │ └── taskRoutes.js
-│ ├── server.js
-│ └── package.json
+│   ├── models/
+│   │   └── Task.js
+│   ├── routes/
+│   │   └── taskRoutes.js
+│   ├── server.js
+│   └── package.json
 │
 ├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 │
 └── README.md
+```
 
 
 <img width="1919" height="833" alt="Screenshot 2026-01-31 145741" src="https://github.com/user-attachments/assets/1ee84ebb-2a32-48b8-ba44-2e6d51ab520a" />
